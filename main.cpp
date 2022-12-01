@@ -3,7 +3,7 @@
 
 int main() {
 
-    printf("Hello world!\n");
+    printf("Versionando projetos no Git e GitHub\n");
 
     system("pause");
 
