@@ -7,3 +7,6 @@ void myFunction() {
     printf("My function");
 }
 
+void myFunction2() {
+    printf("My function 2");
+}
