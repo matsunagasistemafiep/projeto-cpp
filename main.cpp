@@ -8,6 +8,8 @@ int main() {
 
     hello("Fabio Matsunaga");
 
+    myFunction();
+
     system("pause");
 
     return 0;
